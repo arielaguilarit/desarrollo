@@ -1,4 +1,0 @@
-desarrollo
-==========
-
-repositorioDesarrollo
